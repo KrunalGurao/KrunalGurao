@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
+  
 # 💫 About Me:
 I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to reach me : krunalgurao@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/KrunalGurao) 
