@@ -3,6 +3,9 @@
 <div align="center">
   
 # 💫 About Me:
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Krunal+Arun+Kumar+Gurao)](https://git.io/typing-svg)
+
 I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to reach me : krunalgurao@gmail.com
 
 ## 🌐 Socials:
