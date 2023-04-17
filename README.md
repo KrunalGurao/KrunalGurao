@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div align="center">
+
 # 💫 About Me:
 I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to reach me : krunalgurao@gmail.com
 
@@ -25,3 +27,4 @@ I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to 
 ---
 [![](https://visitcount.itsvg.in/api?id=KrunalGurao&icon=5&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
