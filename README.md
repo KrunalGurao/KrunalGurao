@@ -6,7 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Krunal+Arun+Kumar+Gurao)](https://git.io/typing-svg)
 
-I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to reach me : krunalgurao1@gmail.com<br>Check Out my [Resume](https://drive.google.com/file/d/1_RzuHUAfe0YJcAV5iVV4tF0HEJwCefUN/view?usp=share_link)<br>Check Out my [Portfolio](https://krunalgurao.github.io/)<br>
+I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript<br>How to reach me : krunalgurao1@gmail.com<br>📄 Check Out my [Resume](https://drive.google.com/file/d/1_RzuHUAfe0YJcAV5iVV4tF0HEJwCefUN/view?usp=share_link)<br>🏷️ Check Out my [Portfolio](https://krunalgurao.github.io/)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KrunalGurao) 
