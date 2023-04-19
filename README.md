@@ -8,7 +8,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Krunal+Arun+Kumar+Gurao+🤖)](https://git.io/typing-svg)
 
-📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at : krunalgurao1@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1_RzuHUAfe0YJcAV5iVV4tF0HEJwCefUN/view?usp=share_link)<br>🏷️ Check out my [Portfolio](https://krunalgurao.github.io/)<br>
+📖 I’m currently learning Node.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, and JavaScript!<br>📧 Feel free to reach me at : krunalgurao1@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1Fz9jxndAAKALKQaTvSu1Lq3OSofochmM/view?usp=share_link)<br>🏷️ Check out my [Portfolio](https://krunalgurao.github.io/)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KrunalGurao) 
